@@ -1,0 +1,53 @@
+Query,Precision at 5,Precision at 20
+articles exist deal tss time sharing system operating system ibm computers 4 5 cacm systems jb 1978 computer 2358 6 design,0.4,0.15
+interested articles written prieve udo pooch prieve pooch 6 5 4 program system cacm 2356 1978 jb language,0.0,0.1
+intermediate languages construction multi-targeted compilers tcoll 4 5 programming cacm 1978 jb language 6 1098 2939,0.0,0.05
+im interested mechanisms communicating disjoint processes possibly exclusively distributed environment descriptions complete mechanisms implementations opposed theoretical work abstract problem remote procedure calls message-passing examples interests 4 5 cacm system data 1978 jb programming computer language,0.4,0.15
+id papers design implementation editing interfaces window-managers command interpreters essential issues human interface design views improvements user efficiency effectiveness satisfaction system 5 4 1978 language cacm computer jb systems data,0.2,0.1
+interested articles robotics motion planning geometric combinatorial aspects interested dynamics arm motion 5 6 cacm 4 computer 1978 jb 3188 programming data,0.4,0.1
+interested distributed algorithms concurrent programs processes communicate synchronize message passing areas interest include fault-tolerance techniques understanding correctness algorithms 4 5 cacm 1978 jb system 2902 program algorithm 3128,0.8,0.4
+addressing schemes resources networks resource addressing network operating systems 4 system 5 computer cacm 1978 6 jb 1877 2358,0.2,0.1
+security considerations local networks network operating systems distributed systems system 5 4 computer cacm 1978 jb data information 3128,0.6,0.25
+parallel languages languages parallel computation 4 6 programming cacm language 5 jb 1978 1098 1601,0.6,0.4
+setl high level languages language 4 programming 5 data cacm jb 1978 system 1098,0.6,0.3
+portable operating systems 4 system 5 6 cacm 1978 computer jb 2358 2111,0.2,0.05
+code optimization space efficiency 5 cacm 4 1978 jb algorithm program storage 2033 system,0.0,0.1
+find discussions optimal implementations sort algorithms database management applications 4 5 cacm algorithm 2679 data 1978 jb 6 2902,0.2,0.25
+find discussions horizontal microcode optimization special emphasis optimization loops global optimization 5 4 cacm jb algorithm 1978 data 6 system program,0.2,0.1
+find descriptions handling operating systems based multiple processes message passing 4 system 5 cacm 1978 jb data computer program 2740,0.0,0.1
+optimization intermediate machine code 5 cacm 1978 jb 4 language system march algorithm program,0.4,0.1
+languages compilers parallel processors especially highly horizontal microcoded machines code compaction 5 4 cacm jb 1978 6 language programming system program,0.0,0.05
+parallel algorithms 4 6 5 cacm jb 1978 algorithm 1601 processing 2838,0.4,0.25
+graph theoretic algorithms applicable sparse matrices 5 4 algorithm cacm jb 1978 matrix 2986 january problem,0.4,0.1
+computational complexity intractability class-complete reductions algorithms efficiency 4 5 cacm algorithm 6 jb 1978 2110 time 2986,0.0,0.0
+interested hidden-line hidden-surface algorithms cylinders toroids spheres cones specialized topic computer graphics 5 1978 cacm jb 4 system display algorithm january 2845,0.0,0.1
+distributed computing structures algorithms 5 data cacm 4 jb 1978 algorithm computer systems 2709,0.4,0.15
+applied stochastic processes 4 5 cacm 1978 jb system 6 computer 3128 2228,0.0,0.0
+performance evaluation modelling computer systems system 5 4 cacm jb 1978 6 model data 2741,0.8,0.55
+concurrency control mechanisms operating systems system 4 5 data cacm computer 1978 jb programming 2840,0.2,0.1
+memory management aspects operating systems 4 system 5 cacm computer 1978 jb 6 2358 data,0.6,0.35
+information packet radio networks interest algorithms packet routing dealing network topography interested hardware network 5 cacm 4 system computer jb 1978 data systems 6,0.8,0.2
+number-theoretic algorithms especially involving prime number series sieves chinese remainder theorem 5 algorithm cacm 1978 jb 4 6 march january february,0.2,0.05
+articles text formatting systems including systems examples tnroff scribe bravo system cacm 5 1978 information jb computer 4 language data,0.2,0.1
+id find articles describing singular decomposition digital image processing applications include finding approximations original image restoring images subject noise article subject andrews patterson outer product expansions digital image processing american mathematical andrews patterson 5 computer cacm 1978 jb 4 system data display algorithm,0.2,0.05
+id find articles describing graph algorithms based eigenvalue decomposition singular decomposition ajacency matrix graph im especially interested heuristic algorithms graph coloring graph isomorphism method 4 5 algorithm cacm jb 1978 2178 problem data 2986,0.2,0.05
+articles sensitivity eigenvalue decomposition real matrices zero-one matrices im especially interested separation eigenspaces distinct eigenvalues articles subject davis kahn rotation eigenvectors permutation siam numerical analysis vol 7 1 1970 stewart error bounds approximate invariant subspaces closed linear operators siam numerical analysis vol 8 4 1971 davis kahn stewart 5 cacm 1978 jb matrix algorithm february method january problem,0.0,0.05
+fast algorithm context-free language recognition parsing 4 5 cacm jb 1978 2110 grammar grammars analysis 6,0.6,0.45
+articles describing relationship data types concurrency type process synchronization attempt processes type correct message-passing system notion types messages check sender message receiver treating bit stream type 4 5 cacm 1978 jb 6 programming language 2941 3128,0.6,0.25
+type module dont want entire literature abstract data types im sure phrase avoid im interested questions check module matches contexts 4 5 cacm 6 jb 1978 language system programming 2941,0.6,0.4
+type compatibility mean languages allow programmer defined types want restrict extensible languages allow definition abstract data types programmer-supplied definitions operators 4 language 5 6 programming cacm jb 1978 2178 1098,0.4,0.2
+list articles dealing data types languages referenced frequently papers languages catch languages interesting type structures missed 4 programming language 6 5 cacm jb 1978 1098 2941,0.6,0.35
+computer performance evaluation techniques pattern recognition clustering la 70803 5 system 4 cacm jb 1978 analysis 2991 systems january,0.2,0.25
+analysis perception shape humans computers shape descriptions shape recognition computer two-dimensional shapes measures circularity shape matching 5 cacm jb 1978 system method 6 pattern 4 data,0.2,0.3
+texture analysis computer digitized texture analysis texture synthesis perception texture cacm jb 1978 5 program data algorithm system 4 february,0.4,0.1
+operations research models optimize information system performance includes fine tuning decisions secondary index selection reorganization distributed databases 4 5 systems cacm data 1978 jb computer 6 model,0.6,0.3
+computer science principles data structures numerical methods generating optimization linear programming algorithms includes issues khachian russian ellipsoidal algorithm complexity algorithms 5 cacm 1978 jb program 4 january method system analysis,0.2,0.05
+role information retrieval knowledge based systems expert systems 5 system 4 cacm data 1978 jb 6 computer 2345,0.2,0.1
+abstracts articles backus programming liberated von neumann style functional style algebra programs cacm 21 re millo lipton perlis letter acm forum cacm 22 1979 629-630 backus de millo lipton perlis 6 4 5 3184 799 404 1139 1140 1614 1613,0.2,0.05
+algorithms statistical packages anova regression squares generalized linear models system design capabilities statistical formula interest students test wilcoxon sign tests multivariate univariate components included 5 1978 cacm jb data computer programming analysis systems 4,0.6,0.25
+dictionary construction accessing methods fast retrieval words lexical items morphologically related information hashing indexing methods applied english spelling natural language problems 5 4 cacm 1978 jb 6 system 2111 data program,0.8,0.35
+hardware software relating database management systems database packages back end computers special associative hardware microcomputers attached disk heads things rap relational network codasyl hierarchical models systems system ims adabas total 4 5 computer 6 data cacm 1978 jb 2358 information,0.4,0.3
+information retrieval articles gerard salton clustering bibliographic coupling citations co-citations vector space model boolean search methods inverted feedback salton 4 5 6 2109 cacm 2251 jb 1978 system data,0.4,0.45
+results relating parallel complexity theory prams uniform circuits 5 cacm 4 jb 1978 method algorithm computer 2709 january,0.2,0.1
+algorithms parallel computation especially comparisons parallel sequential algorithms 4 5 6 cacm jb 1978 2679 algorithm 1601 processing,0.8,0.35
+list articles el1 ecl el1 el1 dont remember 4 5 6 cacm data 1978 jb processing 2902 algorithm,0.2,0.05

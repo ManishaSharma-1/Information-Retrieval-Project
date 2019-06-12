@@ -1,0 +1,53 @@
+Query,Precision at 5,Precision at 20
+articles exist deal tss time sharing system operating system ibm computers,0.0,0.0
+interested articles written prieve udo pooch prieve pooch,0.4,0.15
+intermediate languages construction multi-targeted compilers tcoll,0.0,0.0
+im interested mechanisms communicating disjoint processes possibly exclusively distributed environment descriptions complete mechanisms implementations opposed theoretical work abstract problem remote procedure calls message-passing examples interests,0.2,0.15
+id papers design implementation editing interfaces window-managers command interpreters essential issues human interface design views improvements user efficiency effectiveness satisfaction,0.0,0.05
+interested articles robotics motion planning geometric combinatorial aspects interested dynamics arm motion,0.2,0.1
+interested distributed algorithms concurrent programs processes communicate synchronize message passing areas interest include fault-tolerance techniques understanding correctness algorithms,0.4,0.3
+addressing schemes resources networks resource addressing network operating systems,0.2,0.05
+security considerations local networks network operating systems distributed systems,0.4,0.15
+parallel languages languages parallel computation,0.4,0.4
+setl high level languages,0.6,0.3
+portable operating systems,0.4,0.1
+code optimization space efficiency,0.4,0.25
+find discussions optimal implementations sort algorithms database management applications,0.2,0.1
+find discussions horizontal microcode optimization special emphasis optimization loops global optimization,0.2,0.15
+find descriptions handling operating systems based multiple processes message passing,0.0,0.1
+optimization intermediate machine code,0.0,0.2
+languages compilers parallel processors especially highly horizontal microcoded machines code compaction,0.0,0.1
+parallel algorithms,0.4,0.2
+graph theoretic algorithms applicable sparse matrices,0.0,0.05
+computational complexity intractability class-complete reductions algorithms efficiency,0.2,0.1
+interested hidden-line hidden-surface algorithms cylinders toroids spheres cones specialized topic computer graphics,0.6,0.35
+distributed computing structures algorithms,0.6,0.2
+applied stochastic processes,0.2,0.05
+performance evaluation modelling computer systems,0.4,0.3
+concurrency control mechanisms operating systems,0.2,0.1
+memory management aspects operating systems,0.2,0.3
+information packet radio networks interest algorithms packet routing dealing network topography interested hardware network,0.8,0.2
+number-theoretic algorithms especially involving prime number series sieves chinese remainder theorem,0.8,0.4
+articles text formatting systems including systems examples tnroff scribe bravo,0.0,0.05
+id find articles describing singular decomposition digital image processing applications include finding approximations original image restoring images subject noise article subject andrews patterson outer product expansions digital image processing american mathematical andrews patterson,0.2,0.1
+id find articles describing graph algorithms based eigenvalue decomposition singular decomposition ajacency matrix graph im especially interested heuristic algorithms graph coloring graph isomorphism method,0.2,0.05
+articles sensitivity eigenvalue decomposition real matrices zero-one matrices im especially interested separation eigenspaces distinct eigenvalues articles subject davis kahn rotation eigenvectors permutation siam numerical analysis vol 7 1 1970 stewart error bounds approximate invariant subspaces closed linear operators siam numerical analysis vol 8 4 1971 davis kahn stewart,0.0,0.05
+fast algorithm context-free language recognition parsing,0.4,0.2
+articles describing relationship data types concurrency type process synchronization attempt processes type correct message-passing system notion types messages check sender message receiver treating bit stream type,0.4,0.15
+type module dont want entire literature abstract data types im sure phrase avoid im interested questions check module matches contexts,0.8,0.3
+type compatibility mean languages allow programmer defined types want restrict extensible languages allow definition abstract data types programmer-supplied definitions operators,0.4,0.25
+list articles dealing data types languages referenced frequently papers languages catch languages interesting type structures missed,0.4,0.1
+computer performance evaluation techniques pattern recognition clustering la 70803,0.2,0.15
+analysis perception shape humans computers shape descriptions shape recognition computer two-dimensional shapes measures circularity shape matching,0.0,0.2
+texture analysis computer digitized texture analysis texture synthesis perception texture,0.2,0.1
+operations research models optimize information system performance includes fine tuning decisions secondary index selection reorganization distributed databases,0.6,0.2
+computer science principles data structures numerical methods generating optimization linear programming algorithms includes issues khachian russian ellipsoidal algorithm complexity algorithms,0.2,0.25
+role information retrieval knowledge based systems expert systems,0.0,0.05
+abstracts articles backus programming liberated von neumann style functional style algebra programs cacm 21 re millo lipton perlis letter acm forum cacm 22 1979 629-630 backus de millo lipton perlis,0.2,0.05
+algorithms statistical packages anova regression squares generalized linear models system design capabilities statistical formula interest students test wilcoxon sign tests multivariate univariate components included,0.8,0.3
+dictionary construction accessing methods fast retrieval words lexical items morphologically related information hashing indexing methods applied english spelling natural language problems,0.2,0.15
+hardware software relating database management systems database packages back end computers special associative hardware microcomputers attached disk heads things rap relational network codasyl hierarchical models systems system ims adabas total,0.4,0.25
+information retrieval articles gerard salton clustering bibliographic coupling citations co-citations vector space model boolean search methods inverted feedback salton,0.4,0.5
+results relating parallel complexity theory prams uniform circuits,0.2,0.1
+algorithms parallel computation especially comparisons parallel sequential algorithms,0.2,0.25
+list articles el1 ecl el1 el1 dont remember,0.2,0.05
